@@ -1,0 +1,49 @@
+Redstone line = 2 = 2 redstone
+
+Repeater = 2 = 6 stone, 4 redstone tourches, 2 redstone
+
+observer = 10 = 20 redstone, 60 cobble, 10 quartz
+
+Sticky Piston = 6 = 6 slime, 6 iron, 24 cobble, 18 wood, 6 redstone
+
+dropper = 2 = 2 redstone, 14 cobble
+
+-------------------
+
+TOTAL 1
+
+cobble = 98
+
+redstone = 36
+
+slime = 6
+
+wood = 18
+
+iron = 6
+
+redstone tourch = 4
+
+quartz = 10
+
+stone = 6
+
+--------------
+
+TOTAL 37
+
+cobble = 3626
+
+redstone = 1332 ✓
+
+slime = 222
+
+wood = 666
+
+iron = 222 ✓
+
+redstone tourch = 148 ✓
+
+quartz = 370
+
+stone = 222 ✓
