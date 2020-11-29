@@ -2,7 +2,7 @@
 
 def get_whole_book():
     file_name = input("What file should I open")
-    file = open(file_name, 'r')
+    file = open(file_name, 'r', encoding='utf-8')
     all_lines = file.readlines()
     return all_lines
 
